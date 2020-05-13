@@ -68,4 +68,3 @@ theme: jsimple
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: git
-  type: https://Sherlock09:harrypotter22519@github.com/Sherlock09/My-Blog.github.io.git
